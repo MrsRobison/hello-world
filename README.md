@@ -1,1 +1,3 @@
 # hello-world
+
+I am new to programing i will take over the world!!! buahahahaha...
